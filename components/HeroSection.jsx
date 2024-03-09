@@ -40,7 +40,7 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             Welcome to my portfolio!! I am a creative Web Developer based in
-            Bangladesh, and I'm very passionate and dedicated to my work.
+            Bangladesh, and Im very passionate and dedicated to my work.
           </p>
           <div>
             <Link
