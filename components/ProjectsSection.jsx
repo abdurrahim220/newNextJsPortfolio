@@ -101,6 +101,16 @@ const projectsData = [
     gitUrl: "https://github.com/abdurrahim220/image",
     liveLink: "https://rahim-imageai.vercel.app/",
   },
+    {
+    id: 11,
+    title: "Business",
+    description: "Improve your business with business web app",
+    image:
+      "https://i.ibb.co/BjhWj0B/Fire-Shot-Capture-001-Home-Business-business-next-ruddy-vercel-app.png",
+    tag: ["NextJs", ""],
+    gitUrl: "https://github.com/abdurrahim220/business-next",
+    liveLink: "https://business-next-ruddy.vercel.app/",
+  },
 ];
 
 const ProjectsSection = () => {
