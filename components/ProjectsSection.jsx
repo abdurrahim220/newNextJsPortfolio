@@ -111,6 +111,16 @@ const projectsData = [
     gitUrl: "https://github.com/abdurrahim220/business-next",
     liveLink: "https://business-next-ruddy.vercel.app/",
   },
+    {
+    id: 12,
+    title: "Friend Zone",
+    description: "Project 5 description",
+    image:
+      "https://i.ibb.co/jDBdDj1/image.png",
+    tag: ["FullStack", ""],
+    gitUrl: "https://github.com/abdurrahim220/friend_zone",
+    liveLink: "https://i.ibb.co/jDBdDj1/image.png",
+  },
 ];
 
 const ProjectsSection = () => {
