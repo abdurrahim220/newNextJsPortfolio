@@ -119,7 +119,7 @@ const projectsData = [
       "https://i.ibb.co/jDBdDj1/image.png",
     tag: ["FullStack", ""],
     gitUrl: "https://github.com/abdurrahim220/friend_zone",
-    liveLink: "https://i.ibb.co/jDBdDj1/image.png",
+    liveLink: "https://friend-zone-5qg7.onrender.com/",
   },
 ];
 
