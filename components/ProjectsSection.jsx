@@ -114,7 +114,7 @@ const projectsData = [
     {
     id: 12,
     title: "Friend Zone",
-    description: "Project 5 description",
+    description: "Online chat application",
     image:
       "https://i.ibb.co/jDBdDj1/image.png",
     tag: ["FullStack", ""],
